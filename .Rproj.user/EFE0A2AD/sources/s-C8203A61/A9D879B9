@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589206442027.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A9D879B9",
+    "lastKnownWriteTime" : 140664473911296,
+    "last_content_update" : 1589206442027,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C61E7CB0",
+        "caption" : "college_major_analysis",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=college_major_analysis&cache_key=C61E7CB0",
+        "displayedObservations" : "8",
+        "environment" : "",
+        "expression" : "college_major_analysis",
+        "object" : "college_major_analysis",
+        "preview" : "0",
+        "totalObservations" : "8",
+        "variables" : "6"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
